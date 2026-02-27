@@ -117,7 +117,4 @@
 # print("Sum of even numbers:", sum_even)
 # print("Sum of odd numbers:", sum_odd)
 # print("Difference between the two sums:", (sum_even-sum_odd))
-x=2
-for i in range(1,5):
-    
-    print(i)
+

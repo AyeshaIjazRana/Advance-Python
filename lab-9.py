@@ -17,5 +17,5 @@
 #     content=file.write("I'm gonna create an AI model")
 #     print(content)
 
-with open("C:\\Users\\ayesh\\Downloads\\Advance Python Programming 3 Months PMYSD (1).docx", "a") as file:
-    file.write("I'm gonna create an AI model")
+# with open("C:\\Users\\ayesh\\Downloads\\Advance Python Programming 3 Months PMYSD (1).docx", "a") as file:
+#     file.write("I'm gonna create an AI model")

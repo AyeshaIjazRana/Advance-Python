@@ -1,7 +1,7 @@
 # Python Basic librarires (os, math, sys) and file handling (its important for this course)
-import os
+# import os
 
-print(os.getcwd()) #- (get current directory path)
+# print(os.getcwd()) #- (get current directory path)
 # os.chdir("C:\\Users\\ayesh\\OneDrive\\Desktop\\Advance Python")
 # print(os.listdir())
 # os.mkdir("Test")
